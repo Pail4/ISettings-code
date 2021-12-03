@@ -1,0 +1,5 @@
+create_log_file = true
+ip_address = "192.168.1.1"
+login = "ivanov ivan ivanovich"
+port = 8080
+timestamp = 1234.876453
